@@ -1,6 +1,6 @@
-# shared_preferences
+# shared_preferences_example
 
-A new Flutter project. shared_preferences are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>.
+A new Flutter project. shared_preferences_example are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>.
 
 ## Getting Started
 

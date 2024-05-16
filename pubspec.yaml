@@ -1,5 +1,5 @@
-name: shared_preferences
-description: "A new Flutter project. shared_preferences are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>."
+name: shared_preferences_example
+description: "A new Flutter project. shared_preferences_example are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -35,6 +35,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:

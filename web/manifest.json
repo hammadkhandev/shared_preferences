@@ -1,11 +1,11 @@
 {
-    "name": "shared_preferences",
-    "short_name": "shared_preferences",
+    "name": "shared_preferences_example",
+    "short_name": "shared_preferences_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project. shared_preferences are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>.",
+    "description": "A new Flutter project. shared_preferences_example are to store data loaclly in app. Supported data types are int, double, bool, String and List<String>.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
